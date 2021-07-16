@@ -1,10 +1,6 @@
 # android-viewpager-nerminkemanci
 
 
-### PAGES, CLASSES & FRAMEWORKS
-
-
-
 #### ACTIVITIES
     • MainActivity.class
     
