@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorWhite">
+
+    <ImageView
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:scaleType="fitCenter"
+        app:layout_constraintVertical_bias="0.1"
+        app:layout_constraintHeight_percent="0.7"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/imgthree"/>
+
+    <TextView
+        android:id="@+id/titleView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0"
+        android:textSize="22sp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="@color/colorOnboardingText"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/title_three_text"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titleView"
+        app:layout_constraintVertical_bias="0"
+        android:textSize="17sp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:fontFamily="@font/inter_regular"
+        android:textColor="@color/colorBlack"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/onboardin_three_text"
+        android:layout_marginHorizontal="10dp"/>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

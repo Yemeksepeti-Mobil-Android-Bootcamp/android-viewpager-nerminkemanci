@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HotelReservationApp</string>
+    <string name="skip_text">Skip</string>
+    <string name="log_in_text">Log In</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="title_one_text">Easy Booking</string>
+    <string name="title_two_text">Hotel Information</string>
+    <string name="title_three_text">Enjoy!</string>
+    <string name="onboarding_one_text">With this application, you can easily make your hotel reservations from anywhere.</string>
+    <string name="onboarding_two_text">You can see the ratings and reviews of the hotels and access their contact information.</string>
+    <string name="onboardin_three_text">All you have to do is enjoy your trip.</string>
+</resources>
