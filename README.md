@@ -1,7 +1,7 @@
 # android-viewpager-nerminkemanci
 
 
-## PAGES, CLASSES & FRAMEWORKS
+### PAGES, CLASSES & FRAMEWORKS
 
 
 
@@ -26,6 +26,6 @@
 
 ## USER MANUEL
 ###  Onboarding Screens
-<img src="./assets/ss1.png" width="200">&nbsp;&nbsp;<img src="./assets/ss2.png" width="200">&nbsp;&nbsp;<img src="./assets/ss3.png" width="200">
+<img src="./assets/ss1.png" width="250">&nbsp;&nbsp;<img src="./assets/ss2.png" width="250">&nbsp;&nbsp;<img src="./assets/ss3.png" width="250">
 
 
